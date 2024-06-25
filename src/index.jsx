@@ -3,6 +3,9 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 // import radix Theme
 import { Theme } from "@radix-ui/themes";
+import "./index.css";
+// radix ui import
+import "@radix-ui/themes/styles.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import About from "./pages/About";

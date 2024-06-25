@@ -1,6 +1,3 @@
-import "./index.css";
-// radix ui import
-import "@radix-ui/themes/styles.css";
 import "./App.css";
 import { Outlet, Link, useLocation } from "react-router-dom";
 // import radix components
