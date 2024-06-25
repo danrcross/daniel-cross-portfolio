@@ -2,7 +2,6 @@ import "./index.css";
 // radix ui import
 import "@radix-ui/themes/styles.css";
 import "./App.css";
-import { useState } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 // import radix components
 import { Flex, Heading, Button } from "@radix-ui/themes";
