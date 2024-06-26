@@ -41,19 +41,24 @@ Visit the deployed site here: https://jocular-brigadeiros-5446f2.netlify.app/
 
 ## Usage
 
+![about/landing](./public/project-images/about-landing.png)
+![portfolio](./public/project-images/portfolio.png)
+![contact-error](./public/project-images/contact-error.png)
+![resume](./public/project-images/resume.png)
+
 ## License
 
 This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributions
 
-Info on custom validators: [https://mongoosejs.com/docs/validation.html](https://mongoosejs.com/docs/validation.html)
+Radix UI Library: https://www.radix-ui.com/
 
-Info on valid email string: [https://knowledge.validity.com/s/articles/What-are-the-rules-for-email-address-syntax?language=en_US#:~:text=The%20domain%20name%20is%20a,Digits%20from%200%20to%209](https://knowledge.validity.com/s/articles/What-are-the-rules-for-email-address-syntax?language=en_US#:~:text=The%20domain%20name%20is%20a,Digits%20from%200%20to%209)
+- Credits for library and documentation
 
-MDN article on .toLocaleDateString(): [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)
+React Library: https://react.dev/
 
-MDN article on .DateTimeFormat(): [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat)
+- Credits for library and documentation
 
 ## Tests
 
