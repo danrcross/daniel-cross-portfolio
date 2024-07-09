@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Daniel Cross
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This is a simple, React-based personal portfolio website. With React's dynamic rendering capabilities, I was able to easily construct a website that both looks nice, and responds seamlessly to user interactions and input. Additionally, I leveraged the Radix UI library to give my site a dark theme, a color-theme, icons, and nice buttons.
 
-### `npm start`
+The site features an 'About', 'Portfolio', 'Contact', and a 'Resumé page. The 'About' page is the landing page, the '/' route. Each page exists on a different route, managed by the React Router, and can be navigated to via nav-bar buttons. The page buttons are purple, except for the button corresponding to the current page, which is red. The footer of the page contains 3 icons, each of which link to a different site-- my GitHub profile, my LinkedIn profile, and my Discord server.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The 'About' page features a profile image of myself, as well as a short description about myself; the 'Portfolio' page features 6 of my projects, with links to both the deployed site, and its GitHub repository; the 'Contact' page features a form with which a user may submit their name, email, and a message. Each field will give an error if it is left blank when clicked away from. The 'email' field will also give an error when an invalid email address is entered. And lastly, the 'Resumé' page features a downloadable link for a PDF of my Resumé, as well as lists of my front- and back-end proficiencies.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Technologies
 
-### `npm test`
+- React
+- React Router
+- Radix UI
+- Netlify
+- GitHub
+- JavaScript, HTML, CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Skills/Concepts
 
-### `npm run build`
+- Use React to create a dynamic user interface, blending the use of JS, HTML, and CSS
+- Use React router to set up routes to different pages on the site
+- Use Radix UI library to enhance the UI of the site
+- Use Netlify to build/deploy the site
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Table of Contents
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [License](#license)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+Visit the GitHub repo here: https://github.com/danrcross/daniel-cross-portfolio
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Visit the deployed site here: https://jocular-brigadeiros-5446f2.netlify.app/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![about/landing](./public/project-images/about-landing.png)
+![portfolio](./public/project-images/portfolio.png)
+![contact-error](./public/project-images/contact-error.png)
+![resume](./public/project-images/resume.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Radix UI Library: https://www.radix-ui.com/
 
-### Code Splitting
+- Credits for library and documentation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+React Library: https://react.dev/
 
-### Analyzing the Bundle Size
+- Credits for library and documentation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Tests
 
-### Making a Progressive Web App
+No tests used for the development of this app!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Questions
 
-### Advanced Configuration
+Any Questions? Click a link below to visit my GitHub and/or email me!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+For emails, please use this format in the subject line: 'GitHub: {NAME_OF_REPOSITORY}'
 
-### Deployment
+[GitHub](https://github.com/danrcross)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Email](mailto:danrcross@gmail.com)
