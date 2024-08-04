@@ -25,6 +25,7 @@ export default function Resume() {
                 <li>React</li>
                 <li>Radix UI</li>
                 <li>Bootstrap</li>
+                <li>Figma</li>
               </ul>
             </div>
             <div>
@@ -34,6 +35,9 @@ export default function Resume() {
                 <li>APIs</li>
                 <li>MySQL, Sequelize</li>
                 <li>MongoDB, Mongoose</li>
+                <li>JSON Web Tokens</li>
+                <li>Apollo</li>
+                <li>GraphQL</li>
                 <li>Handlebars.js</li>
               </ul>
             </div>
