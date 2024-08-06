@@ -9,7 +9,7 @@ export default function Resume() {
             <h4>
               Click to{" "}
               <a
-                href={`${process.env.PUBLIC_URL}/documents/danielcResume-CURRENT.pdf`}
+                href={`${process.env.PUBLIC_URL}/documents/danielc-resume-aug24-pdf.pdf`}
                 download
               >
                 download resumé
