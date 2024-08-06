@@ -6,7 +6,7 @@ import { Flex, Heading, Button } from "@radix-ui/themes";
 import {
   GitHubLogoIcon,
   LinkedInLogoIcon,
-  DiscordLogoIcon,
+  // DiscordLogoIcon,
 } from "@radix-ui/react-icons";
 export default function App() {
   return (

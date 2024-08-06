@@ -12,7 +12,7 @@ export default function Portfolio() {
             title="TONE ZONE"
             img="tz-gif-crop.gif"
             alt="tone-zone-gif"
-            appLink="https://tone-zone-1314e3af579c.herokuapp.com/3"
+            appLink="https://tone-zone-1314e3af579c.herokuapp.com/"
             ghLink="https://github.com/danrcross/tone-zone"
           />
         </Box>
