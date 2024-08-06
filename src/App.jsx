@@ -86,9 +86,9 @@ function Footer() {
       <a href="https://www.linkedin.com/in/daniel-cross-6312891b0/">
         <LinkedInLogoIcon className="icon" />
       </a>
-      <a href="https://discord.gg/HappJMYm">
+      {/* <a href="https://discord.gg/HappJMYm">
         <DiscordLogoIcon className="icon" />
-      </a>
+      </a> */}
     </footer>
   );
 }
